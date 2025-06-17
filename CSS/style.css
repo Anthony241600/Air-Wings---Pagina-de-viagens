@@ -1,3 +1,4 @@
+@media (max-width: 768px) {#titulo {font-size: 40px;} #subtitulo, #ttl, #pq {font-size: 25px;} #txt, #dest, #outfr, #frase {font-size: 18px;} #city, #viajar, #travel, #qu1, #qu2 {width: 95%; border-radius: 20px;} #pagina {padding: 10px; border-radius: 20px;} #fim {margin-left: 0;}}
 @font-face {font-family: 'Emblema'; src: url(../Font/EmblemaOne-Regular.ttf);}
 @font-face {font-family: 'Abril'; src: url(../Font/AbrilFatface-Regular.ttf);}
 @font-face {font-family: 'Inter'; src: url(../Font/Inter_28pt-Regular.ttf);}

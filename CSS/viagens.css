@@ -3,7 +3,7 @@
 @font-face {font-family: 'Emblema'; src: url(../Font/EmblemaOne-Regular.ttf);}
 @font-face {font-family: 'Abril'; src: url(../Font/AbrilFatface-Regular.ttf);}
 @font-face {font-family: 'Inter'; src: url(../Font/Inter_28pt-Regular.ttf);}
-body {background-image: url(../Img/Fundo1.jpg); background-repeat: no-repeat; height: 3800px; background-size: 1550px 3850px; display: flex; flex-direction: column; align-items: center;}
+body {background-image: url(../Img/grecer.png); background-repeat: no-repeat; height: 3800px; background-size: 1550px 3850px; display: flex; flex-direction: column; align-items: center;}
 #pagina {background-color: rgb(224, 255, 255, 0.7); width: 1200px; height: 3750px; text-align: center; border-radius: 80px; display: flex; flex-direction: column; align-content: space-around;}
 img {width: 550px; height: 320px; border-radius: 30px;}
 iframe {width: 550px; height: 320px; border-radius: 30px;}

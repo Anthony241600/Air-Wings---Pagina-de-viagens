@@ -1,5 +1,5 @@
-@media screen and (max-width: 992px) {#titulo {font-size: 50px;} #subtitulo {font-size: 30px;} #txt, #frase {font-size: 20px;} #dest, #outfr {font-size: 22px;} #ttl, #pq {font-size: 26px;}}
-@media screen and (max-width: 600px) {#titulo {font-size: 40px;} #subtitulo {font-size: 24px;} #txt, #frase {font-size: 18px;} #dest, #outfr {font-size: 20px;} #ttl, #pq {font-size: 22px;} #city, #viajar, #travel, #qu1, #qu2 {max-width: 100%; border-radius: 20px;} #mapa {width: 80px; height: 80px;} #odio {width: 120px; height: 120px;}}
+@media screen and (min-width: 992px) {#titulo {font-size: 50px;} #subtitulo {font-size: 30px;} #txt, #frase {font-size: 20px;} #dest, #outfr {font-size: 22px;} #ttl, #pq {font-size: 26px;}}
+@media screen and (min-width: 600px) {#titulo {font-size: 40px;} #subtitulo {font-size: 24px;} #txt, #frase {font-size: 18px;} #dest, #outfr {font-size: 20px;} #ttl, #pq {font-size: 22px;} #city, #viajar, #travel, #qu1, #qu2 {max-width: 100%; border-radius: 20px;} #mapa {width: 80px; height: 80px;} #odio {width: 120px; height: 120px;}}
 @font-face {font-family: 'Emblema'; src: url(../Font/EmblemaOne-Regular.ttf);}
 @font-face {font-family: 'Abril'; src: url(../Font/AbrilFatface-Regular.ttf);}
 @font-face {font-family: 'Inter'; src: url(../Font/Inter_28pt-Regular.ttf);}

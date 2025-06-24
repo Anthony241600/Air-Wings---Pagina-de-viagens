@@ -1,3 +1,5 @@
+@media screen and (min-width: 992px) {#titulo {font-size: 60px;} #subtitulo {font-size: 35px;} h4 {font-size: 32px;} p {font-size: 22px;} img, iframe {width: 450px; height: 260px;} #linha {width: 450px; height: 200px;} #back {width: 120px; height: 60px; margin-left: -500px;}}
+@media screen and (min-width: 600px) {#titulo {font-size: 45px;} #subtitulo {font-size: 28px;} h4 {font-size: 26px;} p {font-size: 18px;} img, iframe {width: 300px; height: 180px;} #linha {width: 300px; height: 140px;} #back {width: 100px; height: 50px; margin-left: -200px;}}
 @font-face {font-family: 'Emblema'; src: url(../Font/EmblemaOne-Regular.ttf);}
 @font-face {font-family: 'Abril'; src: url(../Font/AbrilFatface-Regular.ttf);}
 @font-face {font-family: 'Inter'; src: url(../Font/Inter_28pt-Regular.ttf);}

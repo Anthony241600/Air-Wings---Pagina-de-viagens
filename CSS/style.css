@@ -1,16 +1,19 @@
+@media screen and (max-width: 992px) {#titulo {font-size: 50px;} #subtitulo {font-size: 30px;} #txt, #frase {font-size: 20px;} #dest, #outfr {font-size: 22px;} #ttl, #pq {font-size: 26px;}}
+@media screen and (max-width: 600px) {#titulo {font-size: 40px;} #subtitulo {font-size: 24px;} #txt, #frase {font-size: 18px;} #dest, #outfr {font-size: 20px;} #ttl, #pq {font-size: 22px;} #city, #viajar, #travel, #qu1, #qu2 {max-width: 100%; border-radius: 20px;} #mapa {width: 80px; height: 80px;} #odio {width: 120px; height: 120px;}}
 @font-face {font-family: 'Emblema'; src: url(../Font/EmblemaOne-Regular.ttf);}
 @font-face {font-family: 'Abril'; src: url(../Font/AbrilFatface-Regular.ttf);}
 @font-face {font-family: 'Inter'; src: url(../Font/Inter_28pt-Regular.ttf);}
+*{margin: 0; padding: 0; box-sizing: border-box;}
 body {background-image: url(../Img/Fundo4.jpg); background-repeat: no-repeat; background-size: 1550px 1950px; height: 1900px;display: flex; flex-direction: column; align-items: center;}
-#pagina {background-color: rgb(224, 255, 255, 0.7); width: 1200px; height: 2000px; text-align: center; border-radius: 80px;}
-#subtitulo {font-family: 'Abril'; font-size: 45px; margin-top: -28px; color: khaki;}
-#titulo {font-family: 'Emblema'; margin-top: -8px; font-size: 80px; color: khaki;}
-#ttl {font-family: 'Abril'; font-size: 40px; text-decoration: underline;}
-#txt {font-family: 'Inter'; font-size: 30px; margin-right: 500px;}
+#pagina {background-color: rgb(224, 255, 255, 0.7); width: 1200px; height: 2000px; text-align: center; border-radius: 80px; margin-top: 20px;}
+#subtitulo {font-family: 'Abril'; font-size: 45px; color: khaki; margin-top: 20px;}
+#titulo {font-family: 'Emblema'; font-size: 80px; color: khaki; margin-top: 20px;}
+#ttl {font-family: 'Abril'; font-size: 40px; text-decoration: underline; margin-top: 40px;}
+#txt {font-family: 'Inter'; font-size: 30px; margin-right: 500px; margin-top: 40px;}
 #city {width: 420px; height: 350px; margin-top: -300px; margin-left: 680px; border-radius: 100px;}
-#viajar {width: 580px; height: 320px; border-radius: 50px; margin-right: 500px;}
-#pq {font-family: 'Abril'; font-size: 40px; text-decoration: underline;}
-#frase {font-family:Georgia, 'Times New Roman', Times, serif; font-size: 30px;}
+#viajar {width: 580px; height: 320px; border-radius: 50px; margin-right: 500px; margin-top: 40px;}
+#pq {font-family: 'Abril'; font-size: 40px; text-decoration: underline; margin-top: 40px;}
+#frase {font-family:Georgia, 'Times New Roman', Times, serif; font-size: 30px; margin-top: 40px;}
 #qu1 {height: 320px; width: 450px; background-color: azure; margin-left: 666px;margin-top: -320px; border-radius: 50px;}
 #mapa {width: 150px; height: 150px; margin-top: 40px;}
 #dest {font-family: 'Inter'; font-size: 35px;}

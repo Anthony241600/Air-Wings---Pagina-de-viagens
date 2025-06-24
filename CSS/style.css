@@ -15,9 +15,11 @@ body {background-image: url(../Img/Fundo4.jpg); background-repeat: no-repeat; ba
 #pq {font-family: 'Abril'; font-size: 40px; text-decoration: underline; margin-top: 40px;}
 #frase {font-family:Georgia, 'Times New Roman', Times, serif; font-size: 30px; margin-top: 40px;}
 #qu1 {height: 320px; width: 450px; background-color: azure; margin-left: 666px;margin-top: -320px; border-radius: 50px;}
+#qu1:hover {background-color: rgba(127, 255, 212, 0.6);}
 #mapa {width: 150px; height: 150px; margin-top: 40px;}
 #dest {font-family: 'Inter'; font-size: 35px;}
 #qu2 {height: 320px; width: 450px; background-color: azure; border-radius: 50px; margin-top: 10px; margin-left: 60px;}
+#qu2:hover {background-color: rgba(127, 255, 212, 0.6);}
 #odio {height: 200px; width: 200px; margin-top: -20px;}
 #outfr {font-family: 'Inter'; font-size: 35px; margin-top: -10px;}
 #travel {width: 580px; height: 320px; border-radius: 50px; margin-right: -480px; margin-top: -900px;}

@@ -1,4 +1,3 @@
-@media (max-width: 768px) {#titulo {font-size: 40px;}#subtitulo {font-size: 24px;}p {font-size: 18px;}img {width: 70px;height: 70px;}#pagina {flex-direction: column;align-items: center;border-radius: 20px;padding: 15px;}#back {width: 100px;height: 50px;margin-left: 0;}}
 @font-face {font-family: 'Emblema'; src: url(../Font/EmblemaOne-Regular.ttf);}
 @font-face {font-family: 'Abril'; src: url(../Font/AbrilFatface-Regular.ttf);}
 @font-face {font-family: 'Inter'; src: url(../Font/Inter_28pt-Regular.ttf);}
